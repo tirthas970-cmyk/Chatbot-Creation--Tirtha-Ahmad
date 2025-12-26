@@ -82,9 +82,10 @@ Choices:
         print() #empty space for neatness
         ask_topic = input("Input topic: ")
         print(GetInfo(ask_topic))
-    elif ask_user_choice == "quit" or "exit":
+    elif ask_user_choice == "quit" or ask_user_choice == "exit":
         print("Thank you")
         chatbot_running = False
     else:
         print("Invalid option")
         continue
+
