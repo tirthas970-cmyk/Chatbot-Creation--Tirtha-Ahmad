@@ -1,0 +1,476 @@
+
+          
+
+[2025-12-28 10:48:40] User requested choice 2.
+[2025-12-28 10:48:47] User requested info on topic: chatgpt with length 6.
+[2025-12-28 10:48:49] Ai Assistant:/nChatGPT is a generative artificial intelligence chatbot developed by OpenAI, and released in November 2022.
+It uses generative pre-trained transformers (GPTs), such as GPT-5, to generate text, speech, and images in response to user prompts.
+It is credited with accelerating the AI boom, an ongoing period marked by rapid investment and public attention toward the field of artificial intelligence (AI).
+OpenAI operates the service on a freemium model.
+Users can interact with ChatGPT through text, audio, and image prompts.
+The service gained 100 million users in two months, making it the fastest-growing consumer software application in history.
+[2025-12-28 10:48:49] Chatbot Session has started
+[2025-12-28 10:48:49] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 10:49:38] Chatbot Session has started
+[2025-12-28 10:49:38] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 10:49:53] User requested choice 2.
+[2025-12-28 10:49:58] User requested info on topic: Hello world with length 7.
+[2025-12-28 10:49:59] Ai Assistant (Page Error): I'm sorry, I couldn't find a Wikipedia page for that.
+[2025-12-28 10:49:59] Chatbot Session has started
+[2025-12-28 10:49:59] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 10:50:27] Chatbot Session has started
+[2025-12-28 10:50:27] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 10:51:10] User requested choice 2.
+[2025-12-28 10:51:17] User requested info on topic: Climate Change with length 12.
+[2025-12-28 10:51:19] Ai Assistant:/nPresent-day climate change includes both global warming—the ongoing increase in global average temperature—and its wider effects on Earth's climate system.
+Climate change in a broader sense also includes previous long-term changes to Earth's climate.
+The modern-day rise in global temperatures is driven by human activities, especially fossil fuel (coal, oil and natural gas) burning since the Industrial Revolution.
+Fossil fuel use, deforestation, and some agricultural and industrial practices release greenhouse gases.
+These gases absorb some of the heat that the Earth radiates after it warms from sunlight, warming the lower atmosphere.
+Earth's atmosphere now has roughly 50% more carbon dioxide, the main gas driving global warming, than it did at the end of the pre-industrial era, reaching levels not seen for millions of years.
+Climate change has an increasingly large impact on the environment.
+Deserts are expanding, while heat waves and wildfires are becoming more common.
+Amplified warming in the Arctic has contributed to thawing permafrost, retreat of glaciers and sea ice decline.
+Higher temperatures are also causing more intense storms, droughts, and other weather extremes.
+[2025-12-28 10:51:19] Chatbot Session has started
+[2025-12-28 10:51:19] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 10:51:28] User requested choice 1.
+[2025-12-28 10:51:38] Ai Assistant: User Requested definition(s) on Coding is excellent!
+[2025-12-28 10:51:39] 1. Coding: To write software programs.
+[2025-12-28 10:51:39] Chatbot Session has started
+[2025-12-28 10:51:39] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 10:51:50] User requested choice 2.
+[2025-12-28 10:51:56] User requested info on topic: World War 2 with length 20.
+[2025-12-28 10:51:59] Ai Assistant:/nWorld War I, or the First World War (28 July 1914 – 11 November 1918), also known as the Great War, was a global conflict between two coalitions: the Allies (or Entente) and the Central Powers.
+Major areas of conflict included Europe and the Middle East, as well as parts of Africa and the Asia-Pacific.
+The war saw important developments in weaponry including tanks, aircraft, artillery, machine guns, and chemical weapons.
+One of the deadliest conflicts in history, it resulted in an estimated 30 million military casualties, and 8 million civilian deaths from war-related causes and genocide.
+The movement of large numbers of people was a major factor in the deadly Spanish flu pandemic.
+The causes of World War I included the rise of the German Empire and decline of the Ottoman Empire, which disturbed the long-standing balance of power in Europe, the exacerbation of imperial rivalries, and an arms race between the great powers.
+Growing tensions in the Balkans reached a breaking point on 28 June 1914 when Gavrilo Princip, a Bosnian Serb, assassinated Franz Ferdinand, the heir to the Austro-Hungarian throne.
+Austria-Hungary blamed Serbia, and declared war on 28 July.
+After Russia mobilised in Serbia's defence, Germany declared war on Russia and France, who had an alliance.
+The United Kingdom entered the war after Germany invaded Belgium, and the Ottoman Empire joined the Central Powers in November.
+[2025-12-28 10:51:59] Chatbot Session has started
+[2025-12-28 10:51:59] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 10:52:03] User requested choice 1.
+[2025-12-28 10:52:08] Ai Assistant: User Requested definition(s) on Coding is fun
+[2025-12-28 10:52:09] 1. Coding: To write software programs.
+2. fun: Amusement, enjoyment or pleasure
+[2025-12-28 10:52:09] Chatbot Session has started
+[2025-12-28 10:52:09] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 10:52:22] User requested choice quit.
+[2025-12-28 10:52:22] Thank you
+[2025-12-28 17:16:07] Chatbot Session has started
+[2025-12-28 17:16:07] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 17:16:11] User requested choice 2.
+[2025-12-28 17:16:35] User requested info on topic: Bangladesh with length 45.
+[2025-12-28 17:16:37] Ai Assistant:/nBangladesh, officially the People's Republic of Bangladesh, is a country in South Asia.
+It is the eighth-most populous country in the world and among the most densely populated with a population of over 171 million within an area of 148,460 square kilometres (57,320 sq mi).
+Bangladesh shares land borders with India to the north, west, and east, and Myanmar to the southeast.
+It has a coastline along the Bay of Bengal to its south and is separated from Bhutan and Nepal by the Siliguri Corridor, and from China by the Indian state of Sikkim to its north.
+Dhaka, the capital and largest city, is the nation's political, financial, and cultural centre.
+Chittagong is the second-largest city and the busiest port of the country.
+
+The territory of modern Bangladesh was a stronghold of many Hindu and Buddhist dynasties in ancient history.
+Following the Muslim conquest in 1204, the region saw Sultanate and Mughal rule.
+During the Mughal period, particularly under the Bengal Subah, the region emerged as one of the most prosperous and commercially active parts of the world, known for its thriving textile industry and agricultural productivity.
+The Battle of Plassey in 1757 marked the beginning of British colonial rule for the following two centuries.
+[2025-12-28 17:16:37] Chatbot Session has started
+[2025-12-28 17:16:37] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 17:16:52] User requested choice quit.
+[2025-12-28 17:16:52] Thank you
+[2025-12-28 17:17:39] Chatbot Session has started
+[2025-12-28 17:17:39] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 17:17:54] User requested choice 5.
+[2025-12-28 17:17:54] Chatbot Session has started
+[2025-12-28 17:17:54] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 17:17:57] User requested choice 2.
+[2025-12-28 17:18:05] User requested info on topic: U.S. with length 10.
+[2025-12-28 17:18:06] Ai Assistant:/nThe United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in North America.
+It is a federal republic of 50 states and a federal capital district, Washington, D.C.
+The 48 contiguous states border Canada to the north and Mexico to the south, with the semi-exclave of Alaska in the northwest and the archipelago of Hawaii in the Pacific Ocean.
+The United States also asserts sovereignty over five major island territories and various uninhabited islands in Oceania and the Caribbean.
+It is a megadiverse country, with the world's third-largest land area and third-largest population, exceeding 340 million.
+Paleo-Indians first migrated from North Asia to North America over 12,000 years ago, and formed various civilizations.
+Spanish colonization established Spanish Florida in 1513, the first European colony in what is now the continental United States.
+British colonization followed with the 1607 settlement of Virginia, the first of the Thirteen Colonies.
+Enslavement of Africans was practiced in all colonies by 1770 and supplied most of the labor for the Southern Colonies' plantation economy.
+Clashes with the British Crown began as a civil protest over the illegality of taxation without representation in Parliament and the denial of other English rights.
+They evolved into the American Revolution, which led to the Declaration of Independence and a society based on universal rights.
+[2025-12-28 17:18:06] Chatbot Session has started
+[2025-12-28 17:18:06] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 17:18:36] User requested choice 2.
+[2025-12-28 17:18:40] User requested info on topic: Chatgpt with length 100.
+[2025-12-28 17:18:46] Ai Assistant:/nChatGPT is a generative artificial intelligence chatbot developed by OpenAI, and released in November 2022.
+It uses generative pre-trained transformers (GPTs), such as GPT-5, to generate text, speech, and images in response to user prompts.
+It is credited with accelerating the AI boom, an ongoing period marked by rapid investment and public attention toward the field of artificial intelligence (AI).
+OpenAI operates the service on a freemium model.
+Users can interact with ChatGPT through text, audio, and image prompts.
+The service gained 100 million users in two months, making it the fastest-growing consumer software application in history.
+ChatGPT's website is among the top 5 most-visited websites globally.
+It has been lauded for its potential to transform numerous professional fields, and instigated public debate about the nature of creativity and the future of knowledge work.
+The chatbot has also been criticized for its limitations and potential for unethical use.
+It can generate plausible-sounding but incorrect or nonsensical answers, known as hallucinations.
+[2025-12-28 17:18:46] Chatbot Session has started
+[2025-12-28 17:18:46] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 17:19:59] User requested choice 2.
+[2025-12-28 17:20:04] User requested info on topic: U.S. with length 100.
+[2025-12-28 17:20:05] Ai Assistant:/nThe United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in North America.
+It is a federal republic of 50 states and a federal capital district, Washington, D.C.
+The 48 contiguous states border Canada to the north and Mexico to the south, with the semi-exclave of Alaska in the northwest and the archipelago of Hawaii in the Pacific Ocean.
+The United States also asserts sovereignty over five major island territories and various uninhabited islands in Oceania and the Caribbean.
+It is a megadiverse country, with the world's third-largest land area and third-largest population, exceeding 340 million.
+Paleo-Indians first migrated from North Asia to North America over 12,000 years ago, and formed various civilizations.
+Spanish colonization established Spanish Florida in 1513, the first European colony in what is now the continental United States.
+British colonization followed with the 1607 settlement of Virginia, the first of the Thirteen Colonies.
+Enslavement of Africans was practiced in all colonies by 1770 and supplied most of the labor for the Southern Colonies' plantation economy.
+Clashes with the British Crown began as a civil protest over the illegality of taxation without representation in Parliament and the denial of other English rights.
+They evolved into the American Revolution, which led to the Declaration of Independence and a society based on universal rights.
+[2025-12-28 17:20:05] Chatbot Session has started
+[2025-12-28 17:20:05] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 17:20:19] User requested choice 2.
+[2025-12-28 17:20:34] User requested info on topic: Write me a paragraph on the effects of the Great Depression with length 500.
+[2025-12-28 17:20:36] Ai Assistant:/nJames Myers Thompson (September 27, 1906 – April 7, 1977) was an American novelist and screenwriter, known for his hardboiled crime fiction.
+Thompson wrote more than thirty novels, the majority of which were original paperback publications, published from the late-1940s through mid-1950s.
+Despite some positive critical notice—notably by Anthony Boucher in The New York Times—he was little-recognized in his lifetime.
+Only after death did Thompson's literary stature grow.
+In the late 1980s, several of his novels were re-published in the Black Lizard series of re-discovered crime fiction.
+His best-regarded works include The Killer Inside Me, Savage Night, A Hell of a Woman and Pop.
+1280.
+In these works, Thompson turned the derided crime genre into literature and art, featuring unreliable narrators, odd structure, and the quasi-surrealistic inner narratives of the last thoughts of his dying or dead characters.
+A number of Thompson's books were adapted as popular films, including The Getaway and The Grifters.
+The writer Ronald Verlin Cassill has suggested that of all crime fiction, Thompson's was the rawest and most harrowing; that neither Dashiell Hammett nor Raymond Chandler nor Horace McCoy ever "wrote a book within miles of Thompson".
+[2025-12-28 17:20:36] Chatbot Session has started
+[2025-12-28 17:20:36] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 17:21:02] User requested choice 2.
+[2025-12-28 17:21:05] User requested info on topic: Chaptgpt with length 2.
+[2025-12-28 17:21:07] Ai Assistant:/nChatGPT is a generative artificial intelligence chatbot developed by OpenAI, and released in November 2022.
+It uses generative pre-trained transformers (GPTs), such as GPT-5, to generate text, speech, and images in response to user prompts.
+[2025-12-28 17:21:07] Chatbot Session has started
+[2025-12-28 17:21:07] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 17:21:39] Chatbot Session has started
+[2025-12-28 17:21:39] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-28 17:21:42] User requested choice 1.
+[2025-12-28 17:21:46] Ai Assistant: User Requested definition(s) on Hello world
+[2025-12-28 17:21:46] 1. Hello: "Hello!" or an equivalent greeting.
+2. world: (with "the") Human collective existence; existence in general.
+[2025-12-28 17:21:46] Chatbot Session has started
+[2025-12-28 17:21:46] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-29 10:27:14] Chatbot Session has started
+[2025-12-29 10:27:14] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-29 10:27:17] User requested choice 2.
+[2025-12-29 10:27:27] User requested info on topic: World War 2 with length 12.
+[2025-12-29 10:27:29] Ai Assistant:
+World War I, or the First World War (28 July 1914 – 11 November 1918), also known as the Great War, was a global conflict between two coalitions: the Allies (or Entente) and the Central Powers.
+Major areas of conflict included Europe and the Middle East, as well as parts of Africa and the Asia-Pacific.
+The war saw important developments in weaponry including tanks, aircraft, artillery, machine guns, and chemical weapons.
+One of the deadliest conflicts in history, it resulted in an estimated 30 million military casualties, and 8 million civilian deaths from war-related causes and genocide.
+The movement of large numbers of people was a major factor in the deadly Spanish flu pandemic.
+The causes of World War I included the rise of the German Empire and decline of the Ottoman Empire, which disturbed the long-standing balance of power in Europe, the exacerbation of imperial rivalries, and an arms race between the great powers.
+Growing tensions in the Balkans reached a breaking point on 28 June 1914 when Gavrilo Princip, a Bosnian Serb, assassinated Franz Ferdinand, the heir to the Austro-Hungarian throne.
+Austria-Hungary blamed Serbia, and declared war on 28 July.
+After Russia mobilised in Serbia's defence, Germany declared war on Russia and France, who had an alliance.
+The United Kingdom entered the war after Germany invaded Belgium, and the Ottoman Empire joined the Central Powers in November.
+[2025-12-29 10:33:07] Chatbot Session has started
+[2025-12-29 10:33:07] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-29 10:33:08] User requested choice 2.
+[2025-12-29 10:33:14] User requested info on topic: 2 with length 10.
+[2025-12-29 10:33:16] Ai Assistant:
+2 (two) is a number, numeral and digit.
+It is the natural number following 1 and preceding 3.
+It is the smallest and the only even prime number.
+Because it forms the basis of a duality, it has religious and spiritual significance in many cultures.
+
+
+== Mathematics ==
+The number 2 is the second natural number, after 1.
+Each natural number, including 2, is constructed by succession, that is, by adding 1 to the previous natural number.
+2 is the smallest and the only even prime number, and the first Ramanujan prime.
+It is also the first superior highly composite number, and the first colossally abundant number.
+An integer is determined to be even if it is divisible by two.
+When written in base 10, all multiples of 2 will end in 0, 2, 4, 6, or 8; more generally, in any even base, even numbers will end with an even digit.
+[2025-12-29 10:35:52] Chatbot Session has started
+[2025-12-29 10:35:52] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-29 10:35:54] User requested choice 2.
+[2025-12-29 10:36:00] User requested info on topic: World War 2 with length 10.
+[2025-12-29 10:36:03] Ai Assistant:
+World War I, or the First World War (28 July 1914 – 11 November 1918), also known as the Great War, was a global conflict between two coalitions: the Allies (or Entente) and the Central Powers.
+Major areas of conflict included Europe and the Middle East, as well as parts of Africa and the Asia-Pacific.
+The war saw important developments in weaponry including tanks, aircraft, artillery, machine guns, and chemical weapons.
+One of the deadliest conflicts in history, it resulted in an estimated 30 million military casualties, and 8 million civilian deaths from war-related causes and genocide.
+The movement of large numbers of people was a major factor in the deadly Spanish flu pandemic.
+The causes of World War I included the rise of the German Empire and decline of the Ottoman Empire, which disturbed the long-standing balance of power in Europe, the exacerbation of imperial rivalries, and an arms race between the great powers.
+Growing tensions in the Balkans reached a breaking point on 28 June 1914 when Gavrilo Princip, a Bosnian Serb, assassinated Franz Ferdinand, the heir to the Austro-Hungarian throne.
+Austria-Hungary blamed Serbia, and declared war on 28 July.
+After Russia mobilised in Serbia's defence, Germany declared war on Russia and France, who had an alliance.
+The United Kingdom entered the war after Germany invaded Belgium, and the Ottoman Empire joined the Central Powers in November.
+[2025-12-29 10:36:03] Chatbot Session has started
+[2025-12-29 10:36:03] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-29 10:37:25] Chatbot Session has started
+[2025-12-29 10:37:25] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-29 10:37:29] User requested choice 2.
+[2025-12-29 10:37:32] User requested info on topic: 2 with length 20.
+[2025-12-29 10:37:34] Ai Assistant:
+2 (two) is a number, numeral and digit.
+It is the natural number following 1 and preceding 3.
+It is the smallest and the only even prime number.
+Because it forms the basis of a duality, it has religious and spiritual significance in many cultures.
+
+
+== Mathematics ==
+The number 2 is the second natural number, after 1.
+Each natural number, including 2, is constructed by succession, that is, by adding 1 to the previous natural number.
+2 is the smallest and the only even prime number, and the first Ramanujan prime.
+It is also the first superior highly composite number, and the first colossally abundant number.
+An integer is determined to be even if it is divisible by two.
+When written in base 10, all multiples of 2 will end in 0, 2, 4, 6, or 8; more generally, in any even base, even numbers will end with an even digit.
+[2025-12-29 10:37:34] Chatbot Session has started
+[2025-12-29 10:37:34] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-29 10:37:52] User requested choice 2.
+[2025-12-29 10:38:49] Chatbot Session has started
+[2025-12-29 10:38:49] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-29 10:38:50] User requested choice 2.
+[2025-12-29 10:38:54] User requested info on topic: Chatgpt with length 20.
+[2025-12-29 10:38:56] Ai Assistant:
+ChatGPT is a generative artificial intelligence chatbot developed by OpenAI, and released in November 2022.
+It uses generative pre-trained transformers (GPTs), such as GPT-5, to generate text, speech, and images in response to user prompts.
+It is credited with accelerating the AI boom, an ongoing period marked by rapid investment and public attention toward the field of artificial intelligence (AI).
+OpenAI operates the service on a freemium model.
+Users can interact with ChatGPT through text, audio, and image prompts.
+The service gained 100 million users in two months, making it the fastest-growing consumer software application in history.
+ChatGPT's website is among the top 5 most-visited websites globally.
+It has been lauded for its potential to transform numerous professional fields, and instigated public debate about the nature of creativity and the future of knowledge work.
+The chatbot has also been criticized for its limitations and potential for unethical use.
+It can generate plausible-sounding but incorrect or nonsensical answers, known as hallucinations.
+[2025-12-29 10:38:56] Chatbot Session has started
+[2025-12-29 10:38:56] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-29 10:41:42] Chatbot Session has started
+[2025-12-29 10:41:42] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-29 10:41:43] User requested choice 2.
+[2025-12-29 10:41:47] User requested info on topic: Chatgpt with length 20.
+[2025-12-29 10:41:49] Ai Assistant:
+ChatGPT is a generative artificial intelligence chatbot developed by OpenAI, and released in November 2022.
+It uses generative pre-trained transformers (GPTs), such as GPT-5, to generate text, speech, and images in response to user prompts.
+It is credited with accelerating the AI boom, an ongoing period marked by rapid investment and public attention toward the field of artificial intelligence (AI).
+OpenAI operates the service on a freemium model.
+Users can interact with ChatGPT through text, audio, and image prompts.
+The service gained 100 million users in two months, making it the fastest-growing consumer software application in history.
+ChatGPT's website is among the top 5 most-visited websites globally.
+It has been lauded for its potential to transform numerous professional fields, and instigated public debate about the nature of creativity and the future of knowledge work.
+The chatbot has also been criticized for its limitations and potential for unethical use.
+It can generate plausible-sounding but incorrect or nonsensical answers, known as hallucinations.
+[2025-12-29 10:49:11] Chatbot Session has started
+[2025-12-29 10:49:11] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-29 10:49:14] User requested choice 2.
+[2025-12-29 10:49:23] User requested info on topic: Climate Change with length 12.
+[2025-12-29 10:49:25] Ai Assistant:
+Present-day climate change includes both global warming—the ongoing increase in global average temperature—and its wider effects on Earth's climate system.
+Climate change in a broader sense also includes previous long-term changes to Earth's climate.
+The modern-day rise in global temperatures is driven by human activities, especially fossil fuel (coal, oil and natural gas) burning since the Industrial Revolution.
+Fossil fuel use, deforestation, and some agricultural and industrial practices release greenhouse gases.
+These gases absorb some of the heat that the Earth radiates after it warms from sunlight, warming the lower atmosphere.
+Earth's atmosphere now has roughly 50% more carbon dioxide, the main gas driving global warming, than it did at the end of the pre-industrial era, reaching levels not seen for millions of years.
+Climate change has an increasingly large impact on the environment.
+Deserts are expanding, while heat waves and wildfires are becoming more common.
+Amplified warming in the Arctic has contributed to thawing permafrost, retreat of glaciers and sea ice decline.
+Higher temperatures are also causing more intense storms, droughts, and other weather extremes.
+[2025-12-29 10:49:25] AI Assitant: Could only verify Climate Change through Wikipedia: Present-day climate change includes both global warming—the ongoing increase in global average temperature—and its wider effects on Earth's climate system. Climate change in a broader sense also includes previous long-term changes to Earth's climate. The modern-day rise in global temperatures is driven by human activities, especially fossil fuel (coal, oil and natural gas) burning since the Industrial Revolution. Fossil fuel use, deforestation, and some agricultural and industrial practices release greenhouse gases. These gases absorb some of the heat that the Earth radiates after it warms from sunlight, warming the lower atmosphere. Earth's atmosphere now has roughly 50% more carbon dioxide, the main gas driving global warming, than it did at the end of the pre-industrial era, reaching levels not seen for millions of years.
+Climate change has an increasingly large impact on the environment. Deserts are expanding, while heat waves and wildfires are becoming more common. Amplified warming in the Arctic has contributed to thawing permafrost, retreat of glaciers and sea ice decline. Higher temperatures are also causing more intense storms, droughts, and other weather extremes.
+[2025-12-29 10:49:25] Chatbot Session has started
+[2025-12-29 10:49:25] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-30 10:17:23] Chatbot Session has started
+[2025-12-30 10:17:23] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-30 10:17:37] User requested choice 2.
+[2025-12-30 10:17:47] User requested info on topic: CLimate Change with length 15.
+[2025-12-30 10:17:49] Ai Assistant:
+Present-day climate change includes both global warming—the ongoing increase in global average temperature—and its wider effects on Earth's climate system.
+Climate change in a broader sense also includes previous long-term changes to Earth's climate.
+The modern-day rise in global temperatures is driven by human activities, especially fossil fuel (coal, oil and natural gas) burning since the Industrial Revolution.
+Fossil fuel use, deforestation, and some agricultural and industrial practices release greenhouse gases.
+These gases absorb some of the heat that the Earth radiates after it warms from sunlight, warming the lower atmosphere.
+Earth's atmosphere now has roughly 50% more carbon dioxide, the main gas driving global warming, than it did at the end of the pre-industrial era, reaching levels not seen for millions of years.
+Climate change has an increasingly large impact on the environment.
+Deserts are expanding, while heat waves and wildfires are becoming more common.
+Amplified warming in the Arctic has contributed to thawing permafrost, retreat of glaciers and sea ice decline.
+Higher temperatures are also causing more intense storms, droughts, and other weather extremes.
+[2025-12-30 10:17:49] AI Assitant: Could only verify CLimate Change through Wikipedia: Present-day climate change includes both global warming—the ongoing increase in global average temperature—and its wider effects on Earth's climate system. Climate change in a broader sense also includes previous long-term changes to Earth's climate. The modern-day rise in global temperatures is driven by human activities, especially fossil fuel (coal, oil and natural gas) burning since the Industrial Revolution. Fossil fuel use, deforestation, and some agricultural and industrial practices release greenhouse gases. These gases absorb some of the heat that the Earth radiates after it warms from sunlight, warming the lower atmosphere. Earth's atmosphere now has roughly 50% more carbon dioxide, the main gas driving global warming, than it did at the end of the pre-industrial era, reaching levels not seen for millions of years.
+Climate change has an increasingly large impact on the environment. Deserts are expanding, while heat waves and wildfires are becoming more common. Amplified warming in the Arctic has contributed to thawing permafrost, retreat of glaciers and sea ice decline. Higher temperatures are also causing more intense storms, droughts, and other weather extremes.
+[2025-12-30 10:17:49] Chatbot Session has started
+[2025-12-30 10:17:49] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-30 10:21:43] Chatbot Session has started
+[2025-12-30 10:21:43] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-30 10:21:50] User requested choice 2.
+[2025-12-30 10:21:55] User requested info on topic: Chatgpt with length 15.
+[2025-12-30 10:24:07] Chatbot Session has started
+[2025-12-30 10:24:07] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-30 10:24:08] User requested choice 2.
+[2025-12-30 10:24:12] User requested info on topic: Chatgpt with length 5.
+[2025-12-30 10:25:13] Chatbot Session has started
+[2025-12-30 10:25:13] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-30 10:25:14] User requested choice 2.
+[2025-12-30 10:25:25] User requested info on topic: Chatgpt with length 15.
+[2025-12-30 10:27:07] Chatbot Session has started
+[2025-12-30 10:27:07] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
+[2025-12-30 10:27:08] User requested choice 2.
+[2025-12-30 10:27:15] User requested info on topic: Chatgpt with length 15.
+[2025-12-30 10:27:18] Ai Assitant" Info verfied by other sources: ChatGPT is a generative artificial intelligence chatbot developed by OpenAI, and released in November 2022.
+It uses generative pre-trained transformers (GPTs), such as GPT-5, to generate text, speech, and images in response to user prompts.
+It is credited with accelerating the AI boom, an ongoing period marked by rapid investment and public attention toward the field of artificial intelligence (AI).
+OpenAI operates the service on a freemium model.
+Users can interact with ChatGPT through text, audio, and image prompts.
+The service gained 100 million users in two months, making it the fastest-growing consumer software application in history.
+ChatGPT's website is among the top 5 most-visited websites globally.
+It has been lauded for its potential to transform numerous professional fields, and instigated public debate about the nature of creativity and the future of knowledge work.
+The chatbot has also been criticized for its limitations and potential for unethical use.
+It can generate plausible-sounding but incorrect or nonsensical answers, known as hallucinations.
+[2025-12-30 10:27:18] Chatbot Session has started
+[2025-12-30 10:27:18] AI assistant: 
+Choices:
+    1. Find definition of words or sentences
+    2. Get information on a certain topic
+          
