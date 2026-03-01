@@ -24,7 +24,7 @@ def run():
         ask_user_choice = input("Please input your choice in number form (1/2) ").strip().lower()
         assistant.ds.log(f"User requested choice {ask_user_choice}.")
         if ask_user_choice == "1":
-            sentence = input("Please input a phrase or a world: ")
+            sentence = input("Please input a phrase or a word: ")
             assistant.FindDefinition(sentence)
         elif ask_user_choice == "2":
             ask_topic = input("Input topic: ")
@@ -41,5 +41,6 @@ def run():
 
 if __name__ == "__main__":
     run() # This runs ONLY if you typed 'python main.py'
+
 
 
